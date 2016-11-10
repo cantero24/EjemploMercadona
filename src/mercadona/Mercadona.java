@@ -143,8 +143,10 @@ public static void mostrartodo(){
     for (Producto producto : producto) {
         producto.mostrar();
     }
-
 }
+
+
+
     public static void main(String[] args) {
         rellenardatos();
         //mostrarbebidas();
